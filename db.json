@@ -1,0 +1,51 @@
+{
+    "courses": [  
+	  { "id": 1,
+		  "title": "Learn Python: The Complete Python Programming Course",
+			"author": "avinash jain, the Codex" ,
+			"image":"https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg",
+			"rate":"4.4",
+			"peopleReview":"(2,345)",
+			"price":"E$160",
+			"oldPrice":"E$650"
+
+	  } ,
+	  { "id": 2,
+		  "title": "Learning Python for Data Analysis and Visualization",
+			"author": "Jose Portilla" ,
+			"image":"https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg",
+			"rate":"4.4",
+			"peopleReview":"(18,345)",
+			"price":"E$1,599,99",
+			"bestSeller":"Best seller"
+			
+	  }, 
+	  { "id": 3,
+		  "title": "Python for Beginners - Learn Programming from scratch",
+			"author": "Edwin Diaz, Coding Faculty Solutions" ,
+			"image":"https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg",
+			"rate":"4.4",
+			"peopleReview":"(1.786)",
+			"price":"E$1679.99"
+	
+	  }, 
+	  { "id": 4,
+		  "title": "Learn Python: python for Beginners",
+			"author": "abrar hussian" ,
+			"image":"https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg",
+			"rate":"4.4",
+			"peopleReview":"(2,775)",
+			"price":"E$160"
+			
+	  }, 
+	  { "id": 5,
+		  "title": "Python Beyond the Basics - Object-Oriented Programming",
+			"author": "infinite Skills" ,
+			"image":"https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg",
+			"rate":"4.3",
+			"peopleReview":"(2,953)",
+			"price":"E$160"
+			
+	  }
+	]
+}
